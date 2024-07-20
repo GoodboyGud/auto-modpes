@@ -1,6 +1,6 @@
 #!/bin/bash
 # Owner @AfthonPc MahaVPN
-# Modem HP - Metode httping - Notif Bot
+# Modem HP - Metode httping - Notif BOT
 
 # >> DIBAWAH INI ISI SESUAI KEBUTUHAN ANDA DENGAN BACA PETUNJUK PENGISIAN
 
